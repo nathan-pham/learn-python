@@ -6,3 +6,4 @@ Collection of exercises found on [py4e](https://www.py4e.com/).
 (3) conditional execution  
 (4) funtions  
 (5) loops and iteration
+(6) strings
