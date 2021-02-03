@@ -5,5 +5,5 @@ Collection of exercises found on [py4e](https://www.py4e.com/).
 (2) variables, expressions, and statements  
 (3) conditional execution  
 (4) funtions  
-(5) loops and iteration
+(5) loops and iteration  
 (6) strings
