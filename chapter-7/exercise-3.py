@@ -1,8 +1,3 @@
-"""
-Enter the file name: na na boo boo
-NA NA BOO BOO TO YOU - You have been punk'd!
-"""
-
 filename = input("Enter a file name: ")
 handle = None
 
