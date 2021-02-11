@@ -8,4 +8,5 @@ Collection of exercises found on [py4e](https://www.py4e.com/).
 (6) loops and iteration  
 (7) strings  
 (8) files  
-(9) lists
+(9) lists  
+(10) dictionaries
