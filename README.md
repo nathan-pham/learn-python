@@ -10,4 +10,5 @@ Collection of exercises found on [py4e](https://www.py4e.com/).
 (8) files  
 (9) lists  
 (10) dictionaries  
-(11) tuples
+(11) tuples  
+(12) regular expressions
