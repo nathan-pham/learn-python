@@ -12,3 +12,4 @@ Collection of exercises found on [py4e](https://www.py4e.com/).
 (10) dictionaries  
 (11) tuples  
 (12) regular expressions
+(13) network programming
