@@ -13,7 +13,7 @@ handle.send(body)
 
 while True:
 	data = handle.recv(512)
-	if(len(data) < 1):
+	if len(data) < 1:
 		break
 	print(data.decode())
 

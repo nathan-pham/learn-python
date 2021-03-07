@@ -11,19 +11,19 @@ body = f"GET http://{url} HTTP/1.1\r\nHost: {host}\r\n\r\n".encode()
 
 handle.send(body)
 
-total_length = 0
-while True:
+main_loop = True
+
+while main_loop:
     data = handle.recv(512)
-    length = len(data)
     decoded = data.decode()
+    if len(data) < 1:
+        main_loop = False
     
-    if length < 1:
-    	break
+    for line in decoded.split('\r\n'):
+        if line == '':
+            main_loop = False
+            break
+            
+        print(line)
 
-    for char in decoded:
-        total_length += 1
-        if total_length < 3000:
-            print(char, end='')
-
-print(total_length)
 handle.close()
