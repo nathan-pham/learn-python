@@ -11,6 +11,6 @@ Collection of exercises found on [py4e](https://www.py4e.com/).
 (9) lists  
 (10) dictionaries  
 (11) tuples  
-(12) regular expressions
+(12) regular expressions  
 (13) network programming  
-(14) using web services
+(14) using web services  
