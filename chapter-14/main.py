@@ -1,4 +1,7 @@
+# No exercises; Twitter & Google APIs require developer authentication
+
 import json
+
 data = """{
 	"name": "Nathan Pham",
 	"phone": {

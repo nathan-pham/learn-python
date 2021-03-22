@@ -14,3 +14,5 @@ Collection of exercises found on [py4e](https://www.py4e.com/).
 (12) regular expressions  
 (13) network programming  
 (14) using web services  
+(15) object-oriented programming  
+
